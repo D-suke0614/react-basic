@@ -9,11 +9,6 @@ function App() {
         content='Reactの勉強始めました。'
         date={data}
       />
-      <Article
-        title='新・Reactの勉強 - Props'
-        content='Propsについて勉強しました。'
-        date={data}
-      />
     </div>
   );
 }
