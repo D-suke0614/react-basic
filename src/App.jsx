@@ -6,7 +6,7 @@ function App() {
     <div>
       <Article
         title='新・Reactの勉強'
-        content='Reactの勉強始めました。'
+        content='Reactの勉強始めましたー!'
         date={data}
       />
     </div>
