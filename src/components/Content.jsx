@@ -2,7 +2,7 @@ const Content = (props) => {
   return (
     <>
       <p>{props.content}</p>
-      <spna>{props.date}</spna>
+      <span>{props.date}</span>
     </>
   )
 }
